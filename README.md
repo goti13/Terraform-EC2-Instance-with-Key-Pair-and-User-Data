@@ -290,6 +290,10 @@ Task 3: Accessing the Web Server
 
 ![image](https://github.com/user-attachments/assets/c9496f29-bf43-493b-ae8b-35e733d6b974)
 
+![image](https://github.com/user-attachments/assets/f23dfbca-9f98-4e47-834e-4b5eae9656ef)
+
+![image](https://github.com/user-attachments/assets/b99d563d-8184-4f00-9b37-cb523fbd424f)
+
 
 
 
